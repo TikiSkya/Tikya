@@ -7,102 +7,74 @@
 > Sitio web: [tikya.com](https://tikya.netlify.app)  
 Contacto: tikia290@gmail.com
 
-Tikya tiene hasta la fecha +200 comandos, provocando un cambio en tus servidores con sus tematicas.   
+Tikya tiene hasta la fecha +200 comandos, provocando un cambio en tus servidores con su gran variedad de tematicas.   
 
-## Módulos
-
-### 🎭 Roleplay
-- Comandos de interacción.  
-- Comandos de reacción.     
-- Más de 5000 gifs de anime.
-
-### 🎧 Música
-- Reproduce canciones de cualquier fuente que se te pueda ocurrir.  
-- Audio en alta calidad.  
-- Soporte con Spotify.  
-- Modo y rol de DJ.  
-- Integración con Listen.moe.
-
-### ⭐ Starboard
-- Mensajes destacables.     
-- Canal, estrellas, embed y emoji configurables.  
-- Especifica canales y roles para mantener un orden.
+## Sistemas
 
 ### ✨ Niveles
 - Ranking global.  
-- Perfiles personalizables y globales.  
-- Experiencia por participación.  
+- Perfil de nivelacion.  
+- Experiencia por actividad.  
 - Mensajes de levelup (desactivables). 
 
-### 💰 Economía Global
-- Tienda centralizada y global.  
-- Balance y ranking global.  
-- Múltiples comandos de interacción (gift, share, steal, etc).  
-- Minería y pesca.  
-- Quest diarias.  
-- Sistema de profesiones (próximamente).  
-- Slot Machine.  
+### 🎭 Reacciones
+- Comandos para editar imagenes.
+- Comandos de interacción.  
+- Comandos de reacción.     
 
-### 💸 Economía por Servidor
-- Tienda, Balance y ranking de servidor.  
-- Items con posibilidad de otorgar roles.  
-- Emoji personalizable.  
-- Ganancia de coins a través de la economía global.  
-- Slot Machine de servidor.
+### 🎧 Música
+- Reproduce canciones de la plataforma youtube.  
+
+### 💰 Economía Global
+- Casino con sistema para jugar entre usuarios (ruleta, blackjack, slots, ruletarusa, ngame ,slots, etc)
+- Tienda global.  
+- Balance y ranking global.  
+- Sistema de tradeos, robos, etc
+
+### 💸 Cartas
+- Comprar y abrir sobres.  
+- Top y valores de cartas actualizados en tiempo real.  
+- Venta y compra de cartas.  
+- Colecciona cartas y participa en tops globales
+- Tus cartas podran ser mejoradas, editadas, etc.  
+- Tienda global para publicar cartas.
 
 ### 🐱 Mascotas
 - Niveles y stats.  
 - Exploración.  
-- Quest diarias   
-- Más de 128 mascotas capturables   
+- Quidar y mejorar.   
+- Estadisticas (nivel, signo, exploraciones, etc)
 - Mascotas personalizadas
 
-### 💍 Matrimonios
+### 💍 Familia y Matrimonios
 - Sistema global.  
-- Listado de propuestas pendientes.  
-- Integración con el módulo de economía. 
+- Sistema de Matrimonios.  
+- Sistema de arbol genealogico (tree)
+- Imagenes de su familia completa. 
 
-### 🔶 Clubs
-- Creación y administración de clubs.  
-- Sistema de niveles.  
-- Lista de integrantes.  
+### 🔶 Clanes
+- Creación y administración de clanes.  
+- Sistema de mensajeria entre clanes
+- Alianzas
+- Sistema de puntiación
+- Eventos y premios por participación
+- Stats 
 - Ranking Global.  
 
-### 🔨 Moderación
-- Ban, softban, forceban, kick, mute.   
-- Asignación de roles.  
-- Cantidad de warns configurable.
-- Sanción automática por acumulación de warns configurable.  
-- Respeto con permisos y jerarquías de Discord.
-
-### 📖 Registros
-- Potente registro de eventos (logs).  
-- Mensajes editados y borrados.   
-- Sanciones aplicadas.  
-- Invitaciones de servidor no deseadas.  
-
-### 📝 Utilidades
-- Recordatorios.  
-- Sugerencias.  
-- Tags / Etiquetas.
-
-### ⚙️ Configuración
-- Mensajes de bienvenidas, despedidas y boosteos.   
-- Auto publicaciones.  
-- Deshabilitación de comandos por servidor, canales, roles y usuarios.    
-- Mensajes y embeds configurables al sancionar.  
-
 ### 🎮 Diversión
-- Confesiones.   
-- Imágenes.   
+- Memes.   
+- Escribir tenxto en Imágenes.   
 - 8Ball.   
-- Waifus y Husbandos.
+- Word Tikya (juego de adivinar palabras).
+- >TEAM GAME< -> Juego en equipos con variedad de tematicas.
 
 ## Soporte
-**Nuestro servidor oficial de soporte: [LINK](https://discordapp.com/invite/nekotina)**
+**Nuestro servidor oficial de soporte: [LINK](https://discord.gg/UK26d23BSz)**
 
 También recibimos sugerencias en nuestro servidor de soporte. :3
 
-> Creada con ❤️ por Gwee & Kwee 
+## PREMIUM
+**Sistema Premium para beneficios dentro de Tikya: [LINK](https://www.patreon.com/TkyaProyect)**
+> Creada por Tiki
 
 <img src="https://cdn.discordapp.com/attachments/644484615167541261/880624757261881414/nekotina_dango.gif">
