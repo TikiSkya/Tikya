@@ -1,7 +1,7 @@
 # Tikya Discord Bot
 
 <p align="center">
-    <img src="https://geekflare.com/wp-content/uploads/2021/02/discord-bot-hosting.jpg">
+    <img src="https://vostory.com/wp-content/uploads/2021/08/Discord-LogoWordmark-Color.png">
 </p>
 
 > Sitio web: [tikya.com](https://tikya.netlify.app)  
