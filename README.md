@@ -78,5 +78,3 @@ También recibimos sugerencias en nuestro servidor de soporte. :3
 ## PREMIUM
 **Sistema Premium para beneficios dentro de Tikya: [LINK](https://www.patreon.com/TkyaProyect)**
 > Creada por Tiki
-
-<img src="https://cdn.discordapp.com/attachments/644484615167541261/880624757261881414/nekotina_dango.gif">
