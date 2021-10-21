@@ -44,7 +44,7 @@ Tikya tiene hasta la fecha +200 comandos, provocando un cambio en tus servidores
 ### 🐱 Mascotas
 - Niveles y stats.  
 - Exploración.  
-- Quidar y mejorar.   
+- Cuidar y mejorar.   
 - Estadisticas (nivel, signo, exploraciones, etc)
 - Mascotas personalizadas
 
