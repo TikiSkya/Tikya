@@ -1,4 +1,4 @@
-# Tikya Discord Bot
+# Tikya Bot
 
 <p align="center">
     <img src="https://vostory.com/wp-content/uploads/2021/08/Discord-LogoWordmark-Color.png">
