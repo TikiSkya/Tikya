@@ -24,6 +24,8 @@ Tikya tiene hasta la fecha +200 comandos, provocando un cambio en tus servidores
 
 ### 🎧 Música
 - Reproduce canciones de la plataforma youtube.  
+- Listas de reproduccion
+- Comandos para configurar musica
 
 ### 💰 Economía Global
 - Casino con sistema para jugar entre usuarios (ruleta, blackjack, slots, ruletarusa, ngame ,slots, etc)
