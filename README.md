@@ -5,7 +5,7 @@
 </p>
 
 > Sitio web: [tikya.com](https://tikya.netlify.app)  
-Contacto: tikia290@gmail.com
+
 
 Tikya tiene hasta la fecha +200 comandos, provocando un cambio en tus servidores con su gran variedad de tematicas.   
 
